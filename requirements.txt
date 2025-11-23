@@ -1,0 +1,13 @@
+# Core Data Manipulation and Analysis
+pandas
+numpy
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# NLP and Sentiment Analysis
+nltk
+scikit-learn
+vaderSentiment 
